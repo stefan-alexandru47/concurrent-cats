@@ -1,0 +1,357 @@
+fileFormatVersion: 2
+guid: a65545c5b5066ce488be72af1d876ba8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5555590826211697539
+    second: hello-kitty_0
+  - first:
+      213: 8252446082855793846
+    second: hello-kitty_1
+  - first:
+      213: 8323278371928947159
+    second: hello-kitty_2
+  - first:
+      213: 8922976436432218067
+    second: hello-kitty_3
+  - first:
+      213: -6210619136463774890
+    second: hello-kitty_4
+  - first:
+      213: -2963838062080590118
+    second: hello-kitty_5
+  - first:
+      213: -5069942611869939372
+    second: hello-kitty_6
+  - first:
+      213: -4326392307602952706
+    second: hello-kitty_7
+  - first:
+      213: -4322475928851547183
+    second: hello-kitty_8
+  - first:
+      213: 4692766258895146003
+    second: hello-kitty_9
+  - first:
+      213: 5884092376730617621
+    second: hello-kitty_10
+  - first:
+      213: 7136102847844351992
+    second: hello-kitty_11
+  - first:
+      213: -6246853941356692586
+    second: hello-kitty_12
+  - first:
+      213: 4256927989737458751
+    second: hello-kitty_13
+  - first:
+      213: 2854608278294650924
+    second: hello-kitty_14
+  - first:
+      213: -3994464768618055147
+    second: hello-kitty_15
+  - first:
+      213: -8400144748432951313
+    second: hello-kitty_16
+  - first:
+      213: 1671349566369911195
+    second: hello-kitty_17
+  - first:
+      213: 595234375439425926
+    second: hello-kitty_18
+  - first:
+      213: -7129746427271941440
+    second: hello-kitty_19
+  - first:
+      213: 8378181735137102785
+    second: hello-kitty_20
+  - first:
+      213: -8731120209938130990
+    second: hello-kitty_21
+  - first:
+      213: -4651694541082655935
+    second: hello-kitty_22
+  - first:
+      213: -8177924409141451824
+    second: hello-kitty_23
+  - first:
+      213: 7756548939397562643
+    second: hello-kitty_24
+  - first:
+      213: 4394396117731695955
+    second: hello-kitty_25
+  - first:
+      213: -6552770126906910421
+    second: hello-kitty_26
+  - first:
+      213: -8081277836306294107
+    second: hello-kitty_27
+  - first:
+      213: 2002338869938122499
+    second: hello-kitty_28
+  - first:
+      213: -3017463523917500671
+    second: hello-kitty_29
+  - first:
+      213: -5357117094992355940
+    second: hello-kitty_30
+  - first:
+      213: -2244991832593278137
+    second: hello-kitty_31
+  - first:
+      213: -1268037329791957311
+    second: hello-kitty_32
+  - first:
+      213: -4702314534661284209
+    second: hello-kitty_33
+  - first:
+      213: -1396809124977077580
+    second: hello-kitty_34
+  - first:
+      213: 3591038758679933345
+    second: hello-kitty_35
+  - first:
+      213: 3051492438647374145
+    second: hello-kitty_36
+  - first:
+      213: -9151841230726999578
+    second: hello-kitty_37
+  - first:
+      213: 8606314832764260106
+    second: hello-kitty_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hello-kitty_39
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21293f2154ac7ee4aafc39b4c905ebc4
+      internalID: 1518673961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello-kitty_40
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9138de76e1c7bc48b1e8a173d770da3
+      internalID: -2120812310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hello-kitty_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc7edb9ae70cda478317b9979fcfb6a
+      internalID: -180496092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3f001ed3ea56b6446af9747a42b9790a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      hello-kitty_0: 5555590826211697539
+      hello-kitty_1: 8252446082855793846
+      hello-kitty_10: 5884092376730617621
+      hello-kitty_11: 7136102847844351992
+      hello-kitty_12: -6246853941356692586
+      hello-kitty_13: 4256927989737458751
+      hello-kitty_14: 2854608278294650924
+      hello-kitty_15: -3994464768618055147
+      hello-kitty_16: -8400144748432951313
+      hello-kitty_17: 1671349566369911195
+      hello-kitty_18: 595234375439425926
+      hello-kitty_19: -7129746427271941440
+      hello-kitty_2: 8323278371928947159
+      hello-kitty_20: 8378181735137102785
+      hello-kitty_21: -8731120209938130990
+      hello-kitty_22: -4651694541082655935
+      hello-kitty_23: -8177924409141451824
+      hello-kitty_24: 7756548939397562643
+      hello-kitty_25: 4394396117731695955
+      hello-kitty_26: -6552770126906910421
+      hello-kitty_27: -8081277836306294107
+      hello-kitty_28: 2002338869938122499
+      hello-kitty_29: -3017463523917500671
+      hello-kitty_3: 8922976436432218067
+      hello-kitty_30: -5357117094992355940
+      hello-kitty_31: -2244991832593278137
+      hello-kitty_32: -1268037329791957311
+      hello-kitty_33: -4702314534661284209
+      hello-kitty_34: -1396809124977077580
+      hello-kitty_35: 3591038758679933345
+      hello-kitty_36: 3051492438647374145
+      hello-kitty_37: -9151841230726999578
+      hello-kitty_38: 8606314832764260106
+      hello-kitty_39: 1518673961
+      hello-kitty_4: -6210619136463774890
+      hello-kitty_40: -2120812310
+      hello-kitty_41: -180496092
+      hello-kitty_5: -2963838062080590118
+      hello-kitty_6: -5069942611869939372
+      hello-kitty_7: -4326392307602952706
+      hello-kitty_8: -4322475928851547183
+      hello-kitty_9: 4692766258895146003
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
